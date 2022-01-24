@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welsome to Krant Cares
+title: Welcome to Kranti Cares
 date: 2022-01-23 20:25:20 +0500
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
+description: Welcome post # Add post description (optional)
+img: mac.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Welcome, Post]
 ---
