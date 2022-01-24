@@ -1,8 +1,8 @@
 title: Kranti Salvi
 description: >
-	Kranti is passionate about saving the environment by creating awareness
-	and reducing carbon footprint. Being an active runner and a marathoner,
-	she takes part in plogging to clear the streets during runs and clear trekking pathways.
+ Kranti is passionate about saving the environment by creating awareness
+ and reducing carbon footprint. Being an active runner and a marathoner,
+ she takes part in plogging to clear the streets during runs and clear trekking pathways.
 permalink: ':title/'
 baseurl: "/main" # the subpath of your site, e.g. /blog
 url: "https://kranticares.org" # the base hostname & protocol for your site, e.g. http://example.com
