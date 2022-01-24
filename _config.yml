@@ -1,11 +1,11 @@
-title: Kranti Salvi
+title: Kranti Cares
 description: >
  Kranti is passionate about saving the environment by creating awareness
  and reducing carbon footprint. Being an active runner and a marathoner,
  she takes part in plogging to clear the streets during runs and clear trekking pathways.
 permalink: ':title/'
-baseurl: "/main" # the subpath of your site, e.g. /blog
-url: "https://kranticares.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "kranticares.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
